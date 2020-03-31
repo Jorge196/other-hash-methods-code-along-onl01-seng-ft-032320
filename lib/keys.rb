@@ -9,5 +9,5 @@ groceries = {
 }
 
 def get_the_keys(groceries)
-  groceries.key
+  groceries.keys
 end
